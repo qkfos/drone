@@ -16,6 +16,7 @@ https://t.me/CbIH_yDa4N
 https://simintech.ru/
 
 https://www.coppeliarobotics.com/
+
 Готовые работающие примеры:
 Машинка движется по линии на релейном управлении.
 
