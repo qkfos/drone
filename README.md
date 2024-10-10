@@ -1,5 +1,5 @@
 # drone
-Артемий
+Артём
 https://t.me/ugly_from_yng
 
 Илья
